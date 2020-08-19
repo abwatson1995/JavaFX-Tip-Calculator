@@ -1,3 +1,3 @@
-# assignment-11
+# Java Tip Calculator
 
-JavaFX calculator that uses event listeners to accept, round, and output user input.
+Java-based tip calculator that uses event listeners to accept, round, and output user input.
